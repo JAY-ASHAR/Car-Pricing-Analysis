@@ -1,7 +1,5 @@
 # Car-Pricing-Analysis(ETL)
 
-Car Pricing Analysis (ETL) – Excel & Power Query Project
-
 Car Pricing Analysis (ETL) is a data analytics project focused on extracting meaningful insights from raw car pricing datasets using Excel and Power Query.
 The project emphasizes data cleaning, transformation, automation, and visualization to uncover pricing trends and financial patterns that support informed decision-making.
 
