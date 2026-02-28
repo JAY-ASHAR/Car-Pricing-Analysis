@@ -1,12 +1,23 @@
 # Car-Pricing-Analysis(ETL)
-[CARDATASET with chart and powerquery.xlsx](https://github.com/user-attachments/files/18493838/CARDATASET.with.chart.and.powerquery.xlsx)
+
 Car Pricing Analysis (ETL) – Excel & Power Query Project
 
 Car Pricing Analysis (ETL) is a data analytics project focused on extracting meaningful insights from raw car pricing datasets using Excel and Power Query.
 The project emphasizes data cleaning, transformation, automation, and visualization to uncover pricing trends and financial patterns that support informed decision-making.
 
-📂 Dataset File:
-CARDATASET with chart and powerquery.xlsx
+📂 Dataset
+
+The complete dataset along with charts and Power Query transformations can be downloaded below:
+
+🔽 Download Excel File:
+[CARDATASET with chart and powerquery.xlsx](https://github.com/user-attachments/files/18493838/CARDATASET.with.chart.and.powerquery.xlsx)
+
+This file includes:
+	•	Cleaned dataset
+	•	Power Query transformation steps
+	•	Pivot tables
+	•	Interactive charts
+	•	Pricing analysis reports
 
 ⸻
 
